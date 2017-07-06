@@ -75,5 +75,4 @@ public class DatabaseConfig {
         return sessionFactory.getObject();
     }
 
-
 }
